@@ -37,3 +37,6 @@ A beautiful, modern, and intuitive task management web application designed to h
 - **Google Fonts** - Inter font for clean typography
 - **Local Storage API** - Persistent data storage
 - **CSS Animations** - Smooth transitions and effects
+
+⚠️ **Note:** This application is designed for desktop screens only.  
+Mobile support is not available at this time.
