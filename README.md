@@ -1,7 +1,5 @@
 # 🎯 Task Tracker
 
-![Task Tracker Preview}<img width="611" height="762" alt="image" src="https://github.com/user-attachments/assets/1993ea62-120d-43ee-a3b5-128da04da653"/>)
-
 A beautiful, modern, and intuitive task management web application designed to help you organize work, boost productivity, and never miss deadlines. Built with pure HTML, CSS, and JavaScript.
 
 ## ✨ Features
