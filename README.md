@@ -24,10 +24,6 @@ A beautiful, modern, and intuitive task management web application designed to h
 - **Quick Actions** - One-click task completion and deletion
 - **Notifications** - Visual alerts for actions and overdue tasks
 
-## 🚀 Live Demo
-
-[Live Demo Link](https://adicodz.github.io/student-task-tracker/)
-
 ## 🛠️ Technologies Used
 
 - **HTML5** - Semantic markup and structure
@@ -40,3 +36,7 @@ A beautiful, modern, and intuitive task management web application designed to h
 
 ⚠️ **Note:** This application is designed for desktop screens only.  
 Mobile support is not available at this time.
+
+## 🚀 Live Demo
+
+[Live Demo Link](https://adicodz.github.io/student-task-tracker/)
